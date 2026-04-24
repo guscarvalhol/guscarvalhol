@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! Eu sou o Gustavo👋
 
 Welcome to my GitHub profile! I'm a passionate developer committed to building impactful software solutions.
 
